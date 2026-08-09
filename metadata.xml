@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Los corazones ahora son mis amigos</name>
+    <directory>hearts_friends</directory>
+    <description>Reemplaza el sprite del corazón rojo por las caras de mis amigos</description>
+    <version>1.0</version>
+    <visibility>Public</visibility>
+    <tags>Objetos, Visual</tags>
+</metadata>
